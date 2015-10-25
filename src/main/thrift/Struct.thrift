@@ -7,7 +7,7 @@
 namespace java com.effyroth.core.structs
 namespace py effyroth.structs.core
 
-include "enum.thrift"
+include "Enum.thrift"
 
 const string VERSION = "1.0.0"
 

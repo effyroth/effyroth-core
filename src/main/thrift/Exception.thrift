@@ -7,8 +7,8 @@
 namespace java com.effyroth.core.exceptions
 namespace py effyroth.exceptions.core
 
-include "struct.thrift"
-include "enum.thrift"
+include "Struct.thrift"
+include "Enum.thrift"
 
 const string VERSION = "1.0.0"
 
